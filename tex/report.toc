@@ -1,0 +1,19 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\cyrillictext \CYRV \cyrv \cyre \cyrd \cyre \cyrn \cyri \cyre }{3}{chapter*.2}%
+\contentsline {chapter}{\chaptername ~1.\hskip 1em Метод MSSA}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1.\hskip 1em}Описание метода}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1.\hskip 1em}Вложение}{4}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2.\hskip 1em}Разложение}{4}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3.\hskip 1em}Группировка}{5}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4.\hskip 1em}Диагональное усреднение}{5}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5.\hskip 1em}Частный случай}{5}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2.\hskip 1em}Модификации метода}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1.\hskip 1em}Тёплицев MSSA}{6}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3.\hskip 1em}Выбор длины окна}{7}{section.1.3}%
+\contentsline {chapter}{\chaptername ~2.\hskip 1em Метод Monte-Carlo MSSA}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1.\hskip 1em}Постановка задачи}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2.\hskip 1em}Одиночный тест}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3.\hskip 1em}Множественный тест}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4.\hskip 1em}Выбор векторов для проекции}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5.\hskip 1em}Численное сравнение методов}{12}{section.2.5}%
+\contentsline {chapter}{\cyrillictext \CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{17}{chapter*.9}%
