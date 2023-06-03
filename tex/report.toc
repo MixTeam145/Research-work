@@ -17,3 +17,12 @@
 \contentsline {section}{\numberline {2.4.\hskip 1em}Выбор векторов для проекции}{11}{section.2.4}%
 \contentsline {section}{\numberline {2.5.\hskip 1em}Численное сравнение методов}{12}{section.2.5}%
 \contentsline {chapter}{\cyrillictext \CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{17}{chapter*.9}%
+\contentsline {chapter}{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }{18}{chapter*.11}%
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {russian}{}\relax 
