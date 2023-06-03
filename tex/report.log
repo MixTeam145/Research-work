@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.28)  3 JUN 2023 01:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.28)  3 JUN 2023 13:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -852,7 +852,7 @@ mr/m/n/12 -канальный
  []
 
 
-Overfull \hbox (13.63727pt too wide) in paragraph at lines 69--71
+Overfull \hbox (12.14815pt too wide) in paragraph at lines 69--71
 \T2A/cmr/m/n/12 до^^?го ря^^?да $\OML/cmm/m/it/12 F[]$ \T2A/cmr/m/n/12 рас^^?см
 от^^?рим $\OML/cmm/m/it/12 K[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 N \OMS/cmsy/m
 /n/12 ^^@ \OML/cmm/m/it/12 L \OT1/cmr/m/n/12 + 1$ \T2A/cmr/m/n/12 век^^?то^^?ро
@@ -886,128 +886,128 @@ Package hyperref Warning: Glyph not defined in PU encoding,
 
 [9
 
-] [10] [11]
-<type1error_sum_ev.pdf, id=184, 515.9275pt x 397.485pt>
+] [10] [11] [12]
+<type1error_sum_ev.pdf, id=192, 515.9275pt x 397.485pt>
 File: type1error_sum_ev.pdf Graphic file (type pdf)
 <use type1error_sum_ev.pdf>
-Package pdftex.def Info: type1error_sum_ev.pdf  used on input line 281.
+Package pdftex.def Info: type1error_sum_ev.pdf  used on input line 299.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<type1error_mssa_ev.pdf, id=185, 515.9275pt x 397.485pt>
+<type1error_mssa_ev.pdf, id=193, 515.9275pt x 397.485pt>
 File: type1error_mssa_ev.pdf Graphic file (type pdf)
 <use type1error_mssa_ev.pdf>
-Package pdftex.def Info: type1error_mssa_ev.pdf  used on input line 286.
+Package pdftex.def Info: type1error_mssa_ev.pdf  used on input line 304.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<roc_sum_ev.pdf, id=186, 515.9275pt x 397.485pt>
+<roc_sum_ev.pdf, id=194, 515.9275pt x 397.485pt>
 File: roc_sum_ev.pdf Graphic file (type pdf)
 <use roc_sum_ev.pdf>
-Package pdftex.def Info: roc_sum_ev.pdf  used on input line 292.
+Package pdftex.def Info: roc_sum_ev.pdf  used on input line 310.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<roc_mssa_ev.pdf, id=187, 515.9275pt x 397.485pt>
+<roc_mssa_ev.pdf, id=195, 515.9275pt x 397.485pt>
 File: roc_mssa_ev.pdf Graphic file (type pdf)
 <use roc_mssa_ev.pdf>
-Package pdftex.def Info: roc_mssa_ev.pdf  used on input line 297.
+Package pdftex.def Info: roc_mssa_ev.pdf  used on input line 315.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
 Package hyperref Info: bookmark level for unknown subfigure defaults to 0 on in
-put line 300.
-<type1error_sum_fa.pdf, id=188, 515.9275pt x 397.485pt>
+put line 318.
+<type1error_sum_fa.pdf, id=196, 515.9275pt x 397.485pt>
 File: type1error_sum_fa.pdf Graphic file (type pdf)
 <use type1error_sum_fa.pdf>
-Package pdftex.def Info: type1error_sum_fa.pdf  used on input line 307.
+Package pdftex.def Info: type1error_sum_fa.pdf  used on input line 325.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<type1error_mssa_fa.pdf, id=189, 515.9275pt x 397.485pt>
+<type1error_mssa_fa.pdf, id=197, 515.9275pt x 397.485pt>
 File: type1error_mssa_fa.pdf Graphic file (type pdf)
 <use type1error_mssa_fa.pdf>
-Package pdftex.def Info: type1error_mssa_fa.pdf  used on input line 312.
+Package pdftex.def Info: type1error_mssa_fa.pdf  used on input line 330.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<roc_sum_fa.pdf, id=190, 515.9275pt x 397.485pt>
+<roc_sum_fa.pdf, id=198, 515.9275pt x 397.485pt>
 File: roc_sum_fa.pdf Graphic file (type pdf)
 <use roc_sum_fa.pdf>
-Package pdftex.def Info: roc_sum_fa.pdf  used on input line 318.
+Package pdftex.def Info: roc_sum_fa.pdf  used on input line 336.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<roc_mssa_fa.pdf, id=191, 515.9275pt x 397.485pt>
+<roc_mssa_fa.pdf, id=199, 515.9275pt x 397.485pt>
 File: roc_mssa_fa.pdf Graphic file (type pdf)
 <use roc_mssa_fa.pdf>
-Package pdftex.def Info: roc_mssa_fa.pdf  used on input line 323.
+Package pdftex.def Info: roc_mssa_fa.pdf  used on input line 341.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<type1error_block_ev.pdf, id=192, 515.9275pt x 397.485pt>
+<type1error_block_ev.pdf, id=200, 515.9275pt x 397.485pt>
 File: type1error_block_ev.pdf Graphic file (type pdf)
 <use type1error_block_ev.pdf>
-Package pdftex.def Info: type1error_block_ev.pdf  used on input line 333.
+Package pdftex.def Info: type1error_block_ev.pdf  used on input line 351.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
 File: type1error_mssa_ev.pdf Graphic file (type pdf)
 <use type1error_mssa_ev.pdf>
-Package pdftex.def Info: type1error_mssa_ev.pdf  used on input line 338.
+Package pdftex.def Info: type1error_mssa_ev.pdf  used on input line 356.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<roc_block_ev.pdf, id=193, 515.9275pt x 397.485pt>
+<roc_block_ev.pdf, id=201, 515.9275pt x 397.485pt>
 File: roc_block_ev.pdf Graphic file (type pdf)
 <use roc_block_ev.pdf>
-Package pdftex.def Info: roc_block_ev.pdf  used on input line 344.
+Package pdftex.def Info: roc_block_ev.pdf  used on input line 362.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
 File: roc_mssa_ev.pdf Graphic file (type pdf)
 <use roc_mssa_ev.pdf>
-Package pdftex.def Info: roc_mssa_ev.pdf  used on input line 349.
+Package pdftex.def Info: roc_mssa_ev.pdf  used on input line 367.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<type1error_block_fa.pdf, id=194, 515.9275pt x 397.485pt>
+<type1error_block_fa.pdf, id=202, 515.9275pt x 397.485pt>
 File: type1error_block_fa.pdf Graphic file (type pdf)
 <use type1error_block_fa.pdf>
-Package pdftex.def Info: type1error_block_fa.pdf  used on input line 359.
+Package pdftex.def Info: type1error_block_fa.pdf  used on input line 377.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
 File: type1error_mssa_fa.pdf Graphic file (type pdf)
 <use type1error_mssa_fa.pdf>
-Package pdftex.def Info: type1error_mssa_fa.pdf  used on input line 364.
+Package pdftex.def Info: type1error_mssa_fa.pdf  used on input line 382.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
-<roc_block_fa.pdf, id=195, 515.9275pt x 397.485pt>
+<roc_block_fa.pdf, id=203, 515.9275pt x 397.485pt>
 File: roc_block_fa.pdf Graphic file (type pdf)
 <use roc_block_fa.pdf>
-Package pdftex.def Info: roc_block_fa.pdf  used on input line 370.
+Package pdftex.def Info: roc_block_fa.pdf  used on input line 388.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
 File: roc_mssa_fa.pdf Graphic file (type pdf)
 <use roc_mssa_fa.pdf>
-Package pdftex.def Info: roc_mssa_fa.pdf  used on input line 375.
+Package pdftex.def Info: roc_mssa_fa.pdf  used on input line 393.
 (pdftex.def)             Requested size: 211.26028pt x 162.75761pt.
- [12] [13 <./type1error_sum_ev.pdf> <./type1error_mssa_ev.pdf> <./roc_sum_ev.pd
-f> <./roc_mssa_ev.pdf>] [14 <./type1error_sum_fa.pdf> <./type1error_mssa_fa.pdf
-> <./roc_sum_fa.pdf> <./roc_mssa_fa.pdf>] [15 <./type1error_block_ev.pdf> <./ro
-c_block_ev.pdf>] [16 <./type1error_block_fa.pdf> <./roc_block_fa.pdf>]
+ [13 <./type1error_sum_ev.pdf> <./type1error_mssa_ev.pdf> <./roc_sum_ev.pdf> <.
+/roc_mssa_ev.pdf>] [14 <./type1error_sum_fa.pdf> <./type1error_mssa_fa.pdf> <./
+roc_sum_fa.pdf> <./roc_mssa_fa.pdf>] [15 <./type1error_block_ev.pdf> <./roc_blo
+ck_ev.pdf>] [16 <./type1error_block_fa.pdf> <./roc_block_fa.pdf>]
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\CYRZ' on input line 381.
-
-
-Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyra' on input line 381.
+(hyperref)                removing `\CYRZ' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyrk' on input line 381.
+(hyperref)                removing `\cyra' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyrl' on input line 381.
+(hyperref)                removing `\cyrk' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyryu' on input line 381.
+(hyperref)                removing `\cyrl' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyrch' on input line 381.
+(hyperref)                removing `\cyryu' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyre' on input line 381.
+(hyperref)                removing `\cyrch' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyrn' on input line 381.
+(hyperref)                removing `\cyre' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyri' on input line 381.
+(hyperref)                removing `\cyrn' on input line 399.
 
 
 Package hyperref Warning: Glyph not defined in PU encoding,
-(hyperref)                removing `\cyre' on input line 381.
+(hyperref)                removing `\cyri' on input line 399.
+
+
+Package hyperref Warning: Glyph not defined in PU encoding,
+(hyperref)                removing `\cyre' on input line 399.
 
 [17
 
@@ -1018,7 +1018,7 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 Here is how much of TeX's memory you used:
  14037 strings out of 476331
  224509 string characters out of 5797583
- 1864660 words of memory out of 5000000
+ 1863660 words of memory out of 5000000
  34132 multiletter control sequences out of 15000+600000
  531093 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1046,7 +1046,7 @@ les/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on report.pdf (17 pages, 617088 bytes).
+Output written on report.pdf (17 pages, 617595 bytes).
 PDF statistics:
  747 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
