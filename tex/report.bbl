@@ -14,6 +14,20 @@
 \cyrdash\hskip.2em plus 0.1em\ignorespaces}
 \renewcommand{\newblock}{\ignorespaces}
 
+\bibitem{Larin_2022}
+\selectlanguageifdefined{russian}
+Ларин~Е.~С. Метод SSA для проверки гипотезы о
+  существовании сигнала во временном ряде~:
+  {квалификационная работа магистра}~;
+  СПбГУ. \BibDash
+\newblock 2022.
+
+\bibitem{Rssa}
+\selectlanguageifdefined{english}
+Rssa: A Collection of Methods for Singular Spectrum Analysis. \BibDash
+\newblock $\mathsf{R}$ package version 1.0.5. Access mode:
+  \BibUrl{https://CRAN.R-project.org/package=Rssa}.
+
 \bibitem{ssa_an}
 \selectlanguageifdefined{russian}
 Голяндина~Н.~Э. Метод <<Гусеница>>-SSA: анализ
@@ -21,26 +35,20 @@
 \newblock СПбГУ, 2004. \BibDash
 \newblock Учебное пособие.
 
-\bibitem{mssaR}
+\bibitem{Golyandina_2015}
 \selectlanguageifdefined{english}
 Multivariate and 2D Extensions of Singular Spectrum Analysis with the Rssa
-  Package~/ Golyandina~N., Korobeynikov, A., Shlemov~A., and Usevich~K.~//
-  \BibEmph{Journal of Statistical Software}. \BibDash
-\newblock 2015.
+  Package~/ Golyandina~Nina, Korobeynikov~Anton, Shlemov~Alex, and
+  Usevich~Konstantin~// \BibEmph{Journal of Statistical Software}. \BibDash
+\newblock 2015. \BibDash
+\newblock Vol.~67, no.~2.
 
-\bibitem{golyandina2021detection}
+\bibitem{Golyandina_2023}
 \selectlanguageifdefined{english}
 Golyandina~N. Detection of signals by Monte Carlo singular spectrum analysis:
-  Multiple testing~// \BibEmph{arXiv preprint}. \BibDash
-\newblock 2021. \BibDash
-\newblock arXiv~: stat.ME/arXiv:1903.01485v2.
-
-\bibitem{master}
-\selectlanguageifdefined{russian}
-Ларин~Е.~С. Метод SSA для проверки гипотезы о
-  существовании сигнала во временном ряде~:
-  {квалификационная работа магистра}~;
-  СПбГУ. \BibDash
-\newblock 2022.
+  multiple testing~// \BibEmph{Statistics and Its Interface}. \BibDash
+\newblock 2023. \BibDash
+\newblock Vol.~16, no.~1. \BibDash
+\newblock P.~147--157.
 
 \end{thebibliography}

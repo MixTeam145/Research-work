@@ -8,44 +8,46 @@ Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: report.bib
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 4 entries,
+Warning--empty year/date in Rssa
+You've used 5 entries,
             5635 wiz_defined-function locations,
-            1600 strings with 13829 characters,
-and the built_in function-call counts, 1128 in all, are:
-= -- 127
-> -- 33
-< -- 4
+            1609 strings with 14079 characters,
+and the built_in function-call counts, 1537 in all, are:
+= -- 185
+> -- 31
+< -- 8
 + -- 12
-- -- 8
-* -- 54
-:= -- 135
-add.period$ -- 13
-call.type$ -- 4
+- -- 7
+* -- 81
+:= -- 161
+add.period$ -- 18
+call.type$ -- 5
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 63
-empty$ -- 152
-format.name$ -- 8
-if$ -- 304
+cite$ -- 6
+duplicate$ -- 87
+empty$ -- 193
+format.name$ -- 7
+if$ -- 415
 int.to.chr$ -- 0
-int.to.str$ -- 4
+int.to.str$ -- 5
 missing$ -- 0
-newline$ -- 37
+newline$ -- 44
 num.names$ -- 12
-pop$ -- 27
+pop$ -- 28
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 27
+skip$ -- 52
 stack$ -- 0
-substring$ -- 0
-swap$ -- 29
-text.length$ -- 0
+substring$ -- 32
+swap$ -- 51
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 4
-width$ -- 5
-write$ -- 61
+warning$ -- 1
+while$ -- 7
+width$ -- 6
+write$ -- 78
+(There was 1 warning)

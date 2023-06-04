@@ -1,0 +1,53 @@
+\documentclass[ucs, notheorems, handout]{beamer}
+\usetheme[numbers,totalnumbers,compress, nologo]{Statmod}
+\usefonttheme[onlymath]{serif}
+\setbeamertemplate{navigation symbols}{}
+
+\include{letters_series_mathbb.tex}
+
+\mode<handout> {
+	\usepackage{pgfpages}
+	\setbeameroption{show notes}
+	\pgfpagesuselayout{2 on 1}[a4paper, border shrink=5mm]
+	\setbeamercolor{note page}{bg=white}
+	\setbeamercolor{note title}{bg=gray!10}
+	\setbeamercolor{note date}{fg=gray!10}
+}
+
+\usepackage[utf8x]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian]{babel}
+\usepackage{tikz}
+\usepackage{ragged2e}
+
+\title[MC-SSA для многомерных временных рядов]{Метод Монте-Карло SSA для многомерных временных рядов}
+
+\author{Потешкин Егор Павлович, гр.20.Б04-мм}
+
+\institute[Санкт-Петербургский Государственный Университет]{%
+	\small
+	Санкт-Петербургский государственный университет\\
+	Прикладная математика и информатика\\
+	Вычислительная стохастика и статистические модели\\
+	\vspace{1.25cm}
+	Отчет по производственной практике (научно-исследовательская работа) (6 семестр)}
+
+\date[Зачет]{Санкт-Петербург, 2023}
+
+\subject{Talks}	
+
+\begin{document}
+\begin{frame}[plain]
+	\titlepage
+	\note{Научный руководитель  к.ф.-м.н., доцент Голяндина\,Н.\,Э.,\\
+		кафедра статистического моделирования}
+\end{frame}
+\setbeameroption{show notes}
+\begin{frame}{Введение}
+	
+	$\tX^{(d)}=(x_1^{(d)}, x_2^{(d)},\ldots, x_{N_d}^{(d)})$ "--- временные ряды длины $N_d$. $\tX=\{\tX^{(d)}\}_{d=1}^D$ "--- $D$-канальный временной ряд с длинами $N_d$.
+	Модель: $\tX=\tS+\tR$, где $\tS$ "--- сигнал, а $\tR$ "--- шум.
+	\note{
+		Текст про введение
+	}\end{frame}
+\end{document}}
