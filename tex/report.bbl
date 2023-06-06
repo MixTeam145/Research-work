@@ -14,6 +14,14 @@
 \cyrdash\hskip.2em plus 0.1em\ignorespaces}
 \renewcommand{\newblock}{\ignorespaces}
 
+\bibitem{Golyandina_2023}
+\selectlanguageifdefined{english}
+Golyandina~N. Detection of signals by Monte Carlo singular spectrum analysis:
+  multiple testing~// \BibEmph{Statistics and Its Interface}. \BibDash
+\newblock 2023. \BibDash
+\newblock Vol.~16, no.~1. \BibDash
+\newblock P.~147--157.
+
 \bibitem{Larin_2022}
 \selectlanguageifdefined{russian}
 Ларин~Е.~С. Метод SSA для проверки гипотезы о
@@ -42,13 +50,5 @@ Multivariate and 2D Extensions of Singular Spectrum Analysis with the Rssa
   Usevich~Konstantin~// \BibEmph{Journal of Statistical Software}. \BibDash
 \newblock 2015. \BibDash
 \newblock Vol.~67, no.~2.
-
-\bibitem{Golyandina_2023}
-\selectlanguageifdefined{english}
-Golyandina~N. Detection of signals by Monte Carlo singular spectrum analysis:
-  multiple testing~// \BibEmph{Statistics and Its Interface}. \BibDash
-\newblock 2023. \BibDash
-\newblock Vol.~16, no.~1. \BibDash
-\newblock P.~147--157.
 
 \end{thebibliography}

@@ -19,13 +19,13 @@
 \contentsline {section}{\numberline {2.6.\hskip 1em}Выводы}{15}{section.2.6}%
 \contentsline {chapter}{\cyrillictext \CYRZ \cyra \cyrk \cyrl \cyryu \cyrch \cyre \cyrn \cyri \cyre }{16}{chapter*.9}%
 \contentsline {chapter}{\cyrillictext \CYRS \cyrp \cyri \cyrs \cyro \cyrk \ \cyrl \cyri \cyrt \cyre \cyrr \cyra \cyrt \cyru \cyrr \cyrery }{17}{chapter*.11}%
-\babel@toc {russian}{}\relax 
-\babel@toc {english}{}\relax 
-\babel@toc {russian}{}\relax 
-\babel@toc {english}{}\relax 
-\babel@toc {english}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {russian}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
 \babel@toc {russian}{}\relax 

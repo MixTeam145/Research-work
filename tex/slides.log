@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.28)  4 JUN 2023 23:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.28)  6 JUN 2023 23:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -714,9 +714,59 @@ LaTeX Warning: You have requested package `beamercolorthemestatmodblue',
 
 Package: beamercolorthemenstatmodblue 2007/05/12
 ) (C:\Program Files\MiKTeX\tex/latex/beamer\beamerfontthemeserif.sty))
+(C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen294
+\captionmargin=\dimen295
+\caption@leftmargin=\dimen296
+\caption@rightmargin=\dimen297
+\caption@width=\dimen298
+\caption@indent=\dimen299
+\caption@parindent=\dimen300
+\caption@hangindent=\dimen301
+Package caption Info: beamer document class detected.
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption-beamer.sto
+File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
+e beamer document classes (AR)
+))
+\c@caption@flags=\count334
+\c@continuedfloat=\count335
+Package caption Info: hyperref package is loaded.
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count336
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count337
+)
+(C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/04/04 v3.5 ragged2e Package
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
 
 LaTeX Warning: \include should only be used after \begin{document} on input lin
-e 6.
+e 8.
 
 (letters_series_mathbb.tex
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\euscript.sty
@@ -729,30 +779,27 @@ Package: pgfpages 2011/01/05 ver 0.02
 
 (C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count334
-\calc@Bcount=\count335
-\calc@Adimen=\dimen294
-\calc@Bdimen=\dimen295
-\calc@Askip=\skip65
-\calc@Bskip=\skip66
+\calc@Acount=\count338
+\calc@Bcount=\count339
+\calc@Adimen=\dimen302
+\calc@Bdimen=\dimen303
+\calc@Askip=\skip79
+\calc@Bskip=\skip80
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count336
-\calc@Cskip=\skip67
+\calc@Ccount=\count340
+\calc@Cskip=\skip81
 )
-\pgf@logicalpages=\count337
-\pgf@firstshipout=\count338
-\pgf@lastshipout=\count339
-\pgf@currentshipout=\count340
-\pgf@cpn=\count341
-\pgf@shipoutnextto=\count342
-\pgfphysicalheight=\dimen296
-\pgfphysicalwidth=\dimen297
+\pgf@logicalpages=\count341
+\pgf@firstshipout=\count342
+\pgf@lastshipout=\count343
+\pgf@currentshipout=\count344
+\pgf@cpn=\count345
+\pgf@shipoutnextto=\count346
+\pgfphysicalheight=\dimen304
+\pgfphysicalwidth=\dimen305
 \pgfpages@shipoutbox=\box76
 )
-\pgfpages@box@1=\box77
-\pgfpages@box@2=\box78
-
 (C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks48
@@ -775,14 +822,14 @@ File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/03/28 3.87 The Babel package
-\babel@savecnt=\count343
-\U@D=\dimen298
+\babel@savecnt=\count347
+\U@D=\dimen306
 \l@unhyphenated=\language79
 
 (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read3
 LaTeX Info: Redefining \textlatin on input line 4095.
-\bbl@dirlevel=\count344
+\bbl@dirlevel=\count348
 
 *************************************
 * Local config file bblopts.cfg used
@@ -807,23 +854,23 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box79
+\pgfnodeparttextbox=\box77
 )
 (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen299
-\pgf@nodesepend=\dimen300
+\pgf@nodesepstart=\dimen307
+\pgf@nodesepend=\dimen308
 )
 (C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
 (C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen301
-\pgffor@skip=\dimen302
+\pgffor@iter=\dimen309
+\pgffor@skip=\dimen310
 \pgffor@stack=\toks50
 \pgffor@toks=\toks51
 ))
@@ -833,87 +880,74 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
 tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count345
-\pgfplotmarksize=\dimen303
+\pgf@plot@mark@count=\count349
+\pgfplotmarksize=\dimen311
 )
-\tikz@lastx=\dimen304
-\tikz@lasty=\dimen305
-\tikz@lastxsaved=\dimen306
-\tikz@lastysaved=\dimen307
-\tikz@lastmovetox=\dimen308
-\tikz@lastmovetoy=\dimen309
-\tikzleveldistance=\dimen310
-\tikzsiblingdistance=\dimen311
-\tikz@figbox=\box80
-\tikz@figbox@bg=\box81
-\tikz@tempbox=\box82
-\tikz@tempbox@bg=\box83
-\tikztreelevel=\count346
-\tikznumberofchildren=\count347
-\tikznumberofcurrentchild=\count348
-\tikz@fig@count=\count349
+\tikz@lastx=\dimen312
+\tikz@lasty=\dimen313
+\tikz@lastxsaved=\dimen314
+\tikz@lastysaved=\dimen315
+\tikz@lastmovetox=\dimen316
+\tikz@lastmovetoy=\dimen317
+\tikzleveldistance=\dimen318
+\tikzsiblingdistance=\dimen319
+\tikz@figbox=\box78
+\tikz@figbox@bg=\box79
+\tikz@tempbox=\box80
+\tikz@tempbox@bg=\box81
+\tikztreelevel=\count350
+\tikznumberofchildren=\count351
+\tikznumberofcurrentchild=\count352
+\tikz@fig@count=\count353
  (C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count350
-\pgfmatrixcurrentcolumn=\count351
-\pgf@matrix@numberofcolumns=\count352
+\pgfmatrixcurrentrow=\count354
+\pgfmatrixcurrentcolumn=\count355
+\pgf@matrix@numberofcolumns=\count356
 )
-\tikz@expandcount=\count353
+\tikz@expandcount=\count357
 
 (C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
 rytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (C:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
-Package: ragged2e 2023/04/04 v3.5 ragged2e Package
-\CenteringLeftskip=\skip68
-\RaggedLeftLeftskip=\skip69
-\RaggedRightLeftskip=\skip70
-\CenteringRightskip=\skip71
-\RaggedLeftRightskip=\skip72
-\RaggedRightRightskip=\skip73
-\CenteringParfillskip=\skip74
-\RaggedLeftParfillskip=\skip75
-\RaggedRightParfillskip=\skip76
-\JustifyingParfillskip=\skip77
-\CenteringParindent=\skip78
-\RaggedLeftParindent=\skip79
-\RaggedRightParindent=\skip80
-\JustifyingParindent=\skip81
-) (C:\Program Files\MiKTeX\tex/latex/ucs/data\uni-4.def
+)))
+\c@definition=\count358
+\c@remark=\count359
+ (C:\Program Files\MiKTeX\tex/latex/ucs/data\uni-4.def
 File: uni-4.def 2022/08/07 UCS: Unicode data U+0400..U+04FF
 )
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count354
-\l__pdf_internal_box=\box84
+\l__color_backend_stack_int=\count360
+\l__pdf_internal_box=\box82
 ) (slides.aux)
 \openout1 = `slides.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 39.
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 3
-9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 48.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
+8.
 (C:\Program Files\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 48.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -951,16 +985,16 @@ LaTeX Font Info:    ... okay on input line 39.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count355
-\scratchdimen=\dimen312
-\scratchbox=\box85
-\nofMPsegments=\count356
-\nofMParguments=\count357
+\scratchcounter=\count361
+\scratchdimen=\dimen320
+\scratchbox=\box83
+\nofMPsegments=\count362
+\nofMParguments=\count363
 \everyMPshowfont=\toks52
-\MPscratchCnt=\count358
-\MPscratchDim=\dimen313
-\MPnumerator=\count359
-\makeMPintoPDFobject=\count360
+\MPscratchCnt=\count364
+\MPscratchDim=\dimen321
+\MPnumerator=\count365
+\makeMPintoPDFobject=\count366
 \everyMPtoPDFconversion=\toks53
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -970,7 +1004,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 48.
  (slides.out)
 (slides.out)
 \@outlinefile=\write5
@@ -1009,23 +1043,137 @@ Dictionary: translator-numbers-dictionary, Language: English
 lish.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \th on input line 39.
- (slides.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \th on input line 48.
+ (slides.nav) [1
+
+{C:/Users/Egor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
 
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3
+) [2
 
-{C:/Users/Egor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+] [3
 
 ]
+LaTeX Font Info:    Trying to load font information for U+eus on input line 136
+.
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\ueus.fd
+File: ueus.fd 2013/01/14 v3.01 Euler Script
+) [4
+
+] [5
+
+] [6
+
+] [7
+
+] [8
+
+]
+[9
+
+]
+Overfull \hbox (16.16913pt too wide) detected at line 270
+\OML/cmm/m/it/10.95 h[] \OT1/cmr/m/n/10.95 = 30 [](2\OML/cmm/m/it/10.95 ^^Yn=\O
+T1/cmr/m/n/10.95 12)\OML/cmm/m/it/10.95 ;  h[] \OT1/cmr/m/n/10.95 = 20 [](2\OML
+/cmm/m/it/10.95 ^^Yn=\OT1/cmr/m/n/10.95 12)\OML/cmm/m/it/10.95 ;  n \OT1/cmr/m/
+n/10.95 = 1\OML/cmm/m/it/10.95 ; [] ; N:
+ []
+
+
+Overfull \hbox (10.69412pt too wide) detected at line 270
+\OML/cmm/m/it/10.95 h[] \OT1/cmr/m/n/10.95 = 30 [](2\OML/cmm/m/it/10.95 ^^Yn=\O
+T1/cmr/m/n/10.95 12)\OML/cmm/m/it/10.95 ;  h[] \OT1/cmr/m/n/10.95 = 20 [](2\OML
+/cmm/m/it/10.95 ^^Yn=\OT1/cmr/m/n/10.95 8)\OML/cmm/m/it/10.95 ;  n \OT1/cmr/m/n
+/10.95 = 1\OML/cmm/m/it/10.95 ; [] ; N:
+ []
+
+[10
+
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+] [17
+
+]
+<type1error_sum_ev.pdf, id=192, 515.9275pt x 397.485pt>
+File: type1error_sum_ev.pdf Graphic file (type pdf)
+<use type1error_sum_ev.pdf>
+Package pdftex.def Info: type1error_sum_ev.pdf  used on input line 462.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+<type1error_mssa_ev.pdf, id=193, 515.9275pt x 397.485pt>
+File: type1error_mssa_ev.pdf Graphic file (type pdf)
+<use type1error_mssa_ev.pdf>
+Package pdftex.def Info: type1error_mssa_ev.pdf  used on input line 462.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+ [18
+
+ <./type1error_sum_ev.pdf> <./type1error_mssa_ev.pdf>]
+<roc_sum_ev.pdf, id=217, 515.9275pt x 397.485pt>
+File: roc_sum_ev.pdf Graphic file (type pdf)
+<use roc_sum_ev.pdf>
+Package pdftex.def Info: roc_sum_ev.pdf  used on input line 482.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+<roc_mssa_ev.pdf, id=218, 515.9275pt x 397.485pt>
+File: roc_mssa_ev.pdf Graphic file (type pdf)
+<use roc_mssa_ev.pdf>
+Package pdftex.def Info: roc_mssa_ev.pdf  used on input line 482.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+ [19
+
+ <./roc_sum_ev.pdf> <./roc_mssa_ev.pdf>]
+<type1error_block_fa.pdf, id=239, 515.9275pt x 397.485pt>
+File: type1error_block_fa.pdf Graphic file (type pdf)
+<use type1error_block_fa.pdf>
+Package pdftex.def Info: type1error_block_fa.pdf  used on input line 502.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+<type1error_mssa_fa.pdf, id=240, 515.9275pt x 397.485pt>
+File: type1error_mssa_fa.pdf Graphic file (type pdf)
+<use type1error_mssa_fa.pdf>
+Package pdftex.def Info: type1error_mssa_fa.pdf  used on input line 502.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+ [20
+
+ <./type1error_block_fa.pdf> <./type1error_mssa_fa.pdf>]
+<roc_block_fa.pdf, id=260, 515.9275pt x 397.485pt>
+File: roc_block_fa.pdf Graphic file (type pdf)
+<use roc_block_fa.pdf>
+Package pdftex.def Info: roc_block_fa.pdf  used on input line 522.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+<roc_mssa_fa.pdf, id=261, 515.9275pt x 397.485pt>
+File: roc_mssa_fa.pdf Graphic file (type pdf)
+<use roc_mssa_fa.pdf>
+Package pdftex.def Info: roc_mssa_fa.pdf  used on input line 522.
+(pdftex.def)             Requested size: 138.2795pt x 106.5339pt.
+ [21
+
+ <./roc_block_fa.pdf> <./roc_mssa_fa.pdf>] [22
+
+] (C:\Program Files\MiKTeX\tex/latex/ucs/data\uni-32.def
+File: uni-32.def 2022/08/07 UCS: Unicode data U+2000..U+20FF
+)
+[23
+
+ <C:/Program Files/MiKTeX/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
 \openout6 = `slides.nav'.
 
@@ -1035,37 +1183,42 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@snm=\write8
 \openout8 = `slides.snm'.
 
- [5
 
-
-] (slides.aux)
+(slides.aux)
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 29365 strings out of 476331
- 567114 string characters out of 5797583
- 1863660 words of memory out of 5000000
- 49210 multiletter control sequences out of 15000+600000
- 523578 words of font info for 60 fonts, out of 8000000 for 9000
+ 31374 strings out of 476331
+ 605043 string characters out of 5797583
+ 1867660 words of memory out of 5000000
+ 51136 multiletter control sequences out of 15000+600000
+ 526797 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,440b,707s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass060
+ 128i,16n,122p,1184b,713s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx100
 0.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass
 0900.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-ass0800.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\lass1000.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\lass1095.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\lass1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msy10.pfb>
-Output written on slides.pdf (2 pages, 123506 bytes).
+asi1095.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\lass0600.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
+i600\lass0800.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\lass1000.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-
+t2a/dpi600\lass1095.pk> <C:\Users\Egor\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/
+lh-t2a/dpi600\lass1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb
+><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/euler/eusm10.pfb><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/symbols/msam10.pfb>
+Output written on slides.pdf (23 pages, 557236 bytes).
 PDF statistics:
- 265 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 761 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 185 words of extra memory for PDF output out of 10000 (max. 10000000)
 
